@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Webportfolio/static/css/main.4e4b35a9.chunk.css",
+    "main.js": "/Webportfolio/static/js/main.cf0c1ef3.chunk.js",
+    "main.js.map": "/Webportfolio/static/js/main.cf0c1ef3.chunk.js.map",
+    "runtime-main.js": "/Webportfolio/static/js/runtime-main.1d07f07b.js",
+    "runtime-main.js.map": "/Webportfolio/static/js/runtime-main.1d07f07b.js.map",
+    "static/js/2.5571d070.chunk.js": "/Webportfolio/static/js/2.5571d070.chunk.js",
+    "static/js/2.5571d070.chunk.js.map": "/Webportfolio/static/js/2.5571d070.chunk.js.map",
+    "static/css/3.25727338.chunk.css": "/Webportfolio/static/css/3.25727338.chunk.css",
+    "static/js/3.5feb6601.chunk.js": "/Webportfolio/static/js/3.5feb6601.chunk.js",
+    "static/js/3.5feb6601.chunk.js.map": "/Webportfolio/static/js/3.5feb6601.chunk.js.map",
+    "static/css/4.a8329f31.chunk.css": "/Webportfolio/static/css/4.a8329f31.chunk.css",
+    "static/js/4.7dd025f1.chunk.js": "/Webportfolio/static/js/4.7dd025f1.chunk.js",
+    "static/js/4.7dd025f1.chunk.js.map": "/Webportfolio/static/js/4.7dd025f1.chunk.js.map",
+    "index.html": "/Webportfolio/index.html",
+    "precache-manifest.0b75d3aef7bb35ece4444a12f5f73d08.js": "/Webportfolio/precache-manifest.0b75d3aef7bb35ece4444a12f5f73d08.js",
+    "service-worker.js": "/Webportfolio/service-worker.js",
+    "static/css/3.25727338.chunk.css.map": "/Webportfolio/static/css/3.25727338.chunk.css.map",
+    "static/css/4.a8329f31.chunk.css.map": "/Webportfolio/static/css/4.a8329f31.chunk.css.map",
+    "static/css/main.4e4b35a9.chunk.css.map": "/Webportfolio/static/css/main.4e4b35a9.chunk.css.map",
+    "static/js/2.5571d070.chunk.js.LICENSE.txt": "/Webportfolio/static/js/2.5571d070.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Webportfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Task2.png": "/Webportfolio/static/media/Task2.5809d8b6.png",
+    "static/media/Task3.png": "/Webportfolio/static/media/Task3.d88ae775.png",
+    "static/media/Task4.png": "/Webportfolio/static/media/Task4.403f634d.png",
+    "static/media/Task5.png": "/Webportfolio/static/media/Task5.2596fbbe.png",
+    "static/media/Task7.png": "/Webportfolio/static/media/Task7.7d7540d6.png",
+    "static/media/contactMailDark.svg": "/Webportfolio/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/Webportfolio/static/media/developerActivity.59389695.svg",
+    "static/media/harvardLogo.png": "/Webportfolio/static/media/harvardLogo.5d7dfab9.png",
+    "static/media/manOnTable.svg": "/Webportfolio/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/Webportfolio/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/Webportfolio/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d07f07b.js",
+    "static/js/2.5571d070.chunk.js",
+    "static/css/main.4e4b35a9.chunk.css",
+    "static/js/main.cf0c1ef3.chunk.js"
+  ]
+}
